@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -lglut -lGL -lGLU -lGLEW ${1}.cpp -o $1
